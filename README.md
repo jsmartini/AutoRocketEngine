@@ -8,3 +8,5 @@ Generates Rocket Engine models based on CEA data
    -Variable Cooling vanes on bell
    -bolt holes
    -mounting manifold
+
+<img src = https://github.com/jsmartini/AutoRocketEngine/rerender.png
