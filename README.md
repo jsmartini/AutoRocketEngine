@@ -9,4 +9,4 @@ Generates Rocket Engine models based on CEA data
    -bolt holes
    -mounting manifold
 
-<img src = https://github.com/jsmartini/AutoRocketEngine/rerender.png></img>
+<img src = https://github.com/jsmartini/AutoRocketEngine/blob/master/rerender1.PNG></img>
