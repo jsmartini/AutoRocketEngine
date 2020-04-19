@@ -1,7 +1,11 @@
 # AutoRocketEngine
 Generates Rocket Engine CAD (.step) models based on CEA data
 
-###Problems:
+Prereq:
+
+  -Install FreeCAD
+  
+  -Currently only supports Windows
 
   
  ###To Be Added:
